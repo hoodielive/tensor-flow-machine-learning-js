@@ -1,0 +1,27 @@
+TensorFlow.js replaced deeplearn.js
+
+- Better performance with the Python(Tensorflow Version)
+
+- Better to use the Python version if you're server based
+
+- Javascript better if using the browser 
+
+- Machine Learning is the ability to learn without explicit programming 
+
+Whereas most pc(s) is accustomed to:
+
+  2 x 5  =   10
+  input    output 
+
+Machine learning adds (models) in between input and output:
+  input -> Learning Model -> output 
+
+
+input (What is the biggest dessert in the world?) -> LModel (Learns from the input: in this case infers desert
+    instead of dessert) -> output (Sahara Desert)
+
+
+Machines need to be trained in order for its model to be accurate: Lots of data made AlphaGo better at Go than its
+champion. 
+
+
